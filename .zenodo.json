@@ -1,0 +1,8 @@
+{
+  "title": "dynamic-discriminant: code and synthetic data for Information-dependent calibration in dynamic prediction of a binary outcome from longitudinal markers",
+  "upload_type": "software",
+  "creators": [{"name": "de la Cruz, Rolando", "affiliation": "Universidad Adolfo Ibáñez"}],
+  "description": "Code, synthetic data and aggregate results reproducing the theory checks, simulation study and applications of the article. The original data are not redistributed.",
+  "license": "MIT",
+  "keywords": ["calibration", "dynamic prediction", "discriminant analysis", "joint models", "longitudinal data"]
+}

@@ -1,0 +1,108 @@
+{
+  "het0": {
+    "divergences": 0,
+    "max_rhat": 1.0036713978340848,
+    "min_ess_bulk": 598.3353608038117,
+    "min_ess_tail": 770.1592840502828,
+    "ebfmi": [
+      0.52,
+      0.52,
+      0.58,
+      0.57
+    ],
+    "treedepth_hits": 0
+  },
+  "het1": {
+    "divergences": 0,
+    "max_rhat": 1.002712519156896,
+    "min_ess_bulk": 1642.5426946176165,
+    "min_ess_tail": 2596.4319635214492,
+    "ebfmi": [
+      0.55,
+      0.59,
+      0.51,
+      0.56
+    ],
+    "treedepth_hits": 0
+  },
+  "hom": {
+    "divergences": 0,
+    "max_rhat": 1.0015337617235764,
+    "min_ess_bulk": 1356.3996952477382,
+    "min_ess_tail": 2348.496772365742,
+    "ebfmi": [
+      0.56,
+      0.56,
+      0.54,
+      0.58
+    ],
+    "treedepth_hits": 0
+  },
+  "jm": {
+    "divergences": 0,
+    "max_rhat": 1.0021827172916429,
+    "min_ess_bulk": 1894.3571396181828,
+    "min_ess_tail": 2746.589635539927,
+    "ebfmi": [
+      0.58,
+      0.55,
+      0.58,
+      0.55
+    ],
+    "treedepth_hits": 0
+  },
+  "infl0": {
+    "divergences": 0,
+    "max_rhat": 1.0051730752697943,
+    "min_ess_bulk": 815.1089884177566,
+    "min_ess_tail": 1312.6189970893997,
+    "ebfmi": [
+      0.51,
+      0.53,
+      0.52,
+      0.57
+    ],
+    "treedepth_hits": 0
+  },
+  "infl1": {
+    "divergences": 1,
+    "max_rhat": 1.0035503508574652,
+    "min_ess_bulk": 529.0250462693683,
+    "min_ess_tail": 714.9323515629575,
+    "ebfmi": [
+      0.68,
+      0.63,
+      0.73,
+      0.73
+    ],
+    "treedepth_hits": 0
+  },
+  "inflmix1": {
+    "divergences": 1,
+    "max_rhat": 1.0098675589824508,
+    "min_ess_bulk": 406.34900475961354,
+    "min_ess_tail": 228.19184047139586,
+    "ebfmi": [
+      0.75,
+      0.86,
+      0.79,
+      0.92
+    ],
+    "treedepth_hits": 1
+  },
+  "jm_infl": {
+    "divergences": 0,
+    "max_rhat": 1.006201925463795,
+    "min_ess_bulk": 624.0966232100437,
+    "min_ess_tail": 1018.5382211878477,
+    "ebfmi": [
+      0.5,
+      0.45,
+      0.52,
+      0.47
+    ],
+    "treedepth_hits": 0,
+    "latent_max_rhat": 1.0027441913253041,
+    "latent_min_ess_bulk": 996.1819831961033
+  }
+}

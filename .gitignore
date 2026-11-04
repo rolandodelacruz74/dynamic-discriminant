@@ -1,0 +1,20 @@
+# original data: not redistributed
+data/gtn/hCG_GTN.csv
+data/pregnancy/datos.txt
+# subject-level outputs of the pregnancy data (data not shareable)
+results/pregnancy/loo_predictions.npy
+results/pregnancy/exact_loo_refits.json
+results/pregnancy/external_cv.npz
+results/pregnancy/external_cv_fold*.json
+results/pregnancy/_cv_short/
+results/pregnancy_cvlong/
+results/figure2_patients*
+results/figure1_patients*
+# intermediate runs
+results/_before_jm_exact/
+results/*_quick/
+results/*_synthetic/
+# Python and logs
+__pycache__/
+*.pyc
+*.log

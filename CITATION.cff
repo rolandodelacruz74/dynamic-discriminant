@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software."
+title: "dynamic-discriminant: code and synthetic data for Information-dependent calibration in dynamic prediction of a binary outcome from longitudinal markers"
+authors:
+  - family-names: "de la Cruz"
+    given-names: "Rolando"
+    affiliation: "Faculty of Engineering and Sciences, Universidad Adolfo Ibáñez, Chile"
+    email: "rolando.delacruz@uai.cl"
+version: "1.0.0"
+date-released: "2026-11-03"
+license: MIT
+repository-code: "https://github.com/OWNER/dynamic-discriminant"
