@@ -9,4 +9,5 @@ authors:
 version: "1.0.0"
 date-released: "2026-11-03"
 license: MIT
-repository-code: "https://github.com/OWNER/dynamic-discriminant"
+repository-code: "https://github.com/rolandodelacruz74/dynamic-discriminant"
+doi: "10.5281/zenodo.23934482"
